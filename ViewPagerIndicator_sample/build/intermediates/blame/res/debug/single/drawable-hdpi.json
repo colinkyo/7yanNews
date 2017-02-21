@@ -4,12 +4,12 @@
         "source": "F:\\App\\News\\ViewPagerIndicator_sample\\src\\main\\res\\drawable-hdpi\\perm_group_calendar_normal.png"
     },
     {
-        "merged": "E:\\App\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
-        "source": "E:\\App\\News\\ViewPagerIndicator_sample\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
-    },
-    {
         "merged": "E:\\App\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected.9.png",
         "source": "E:\\App\\News\\ViewPagerIndicator_sample\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
+    },
+    {
+        "merged": "E:\\App\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
+        "source": "E:\\App\\News\\ViewPagerIndicator_sample\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
     },
     {
         "merged": "F:\\App\\News\\ViewPagerIndicator_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",

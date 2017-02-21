@@ -12,7 +12,23 @@
         "source": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
         "merged": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
         "source": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
     }
 ]

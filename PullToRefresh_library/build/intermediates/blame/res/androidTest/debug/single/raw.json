@@ -1,11 +1,23 @@
 [
     {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\reset_sound.mp3",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\reset_sound.mp3"
+    },
+    {
         "merged": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\refreshing_sound.mp3",
         "source": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\refreshing_sound.mp3"
     },
     {
         "merged": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\reset_sound.mp3",
         "source": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\reset_sound.mp3"
+    },
+    {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\refreshing_sound.mp3",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\pull_event.mp3",
+        "source": "E:\\App\\News\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\pull_event.mp3"
     },
     {
         "merged": "F:\\App\\News\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\pull_event.mp3",
